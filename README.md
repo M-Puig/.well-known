@@ -1,2 +1,2 @@
 # .well-known
-bluesky validation
+bluesky validation token
